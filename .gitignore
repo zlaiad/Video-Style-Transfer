@@ -1,0 +1,8 @@
+# macOS 系统文件
+.DS_Store
+
+# PyCharm / IntelliJ 等 JetBrains 配置文件
+.idea/
+
+
+
