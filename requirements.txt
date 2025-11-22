@@ -1,0 +1,17 @@
+# Video Style Transfer Requirements - CLI Version
+# Python 3.7+ recommended
+
+# Core deep learning framework
+torch>=2.0.0
+torchvision>=0.15.0  # Required for RAFT optical flow (0.13+ for RAFT support)
+
+# Computer vision and image processing
+opencv-python>=4.5.0
+numpy>=1.19.0
+pillow>=8.0.0
+
+# Optional but recommended for flow smoothing
+scipy>=1.7.0
+
+# Note: This CLI version does NOT require tkinter (GUI framework)
+
